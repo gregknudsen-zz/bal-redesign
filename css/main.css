@@ -1,3 +1,8 @@
+.title-nav-wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+
 .hidden {
 	display: none;
 }
