@@ -1,8 +1,18 @@
 .title-nav-wrapper {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 
 .hidden {
 	display: none;
 }
+
+.title {
+	padding-left: 5%;
+}
+
+nav {
+	padding-right: 5%;
+}
+
