@@ -6,7 +6,7 @@ const mobileNav = (function(){
 		console.log("click!");
 		menu.classList.toggle("hidden");
 	});
-})();
+}());
 
 
 
