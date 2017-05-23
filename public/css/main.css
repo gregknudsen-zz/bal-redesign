@@ -1,3 +1,7 @@
+body {
+	font-family: sans-serif;
+}
+
 .title-nav-wrapper, footer {
 	display: flex;
 	justify-content: space-between;
@@ -19,4 +23,3 @@ nav {
 .content-wrapper {
 	text-align: center;
 }
-
